@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+ollama
+chromadb
+pymupdf
+pypdf
+python-pptx
+rank_bm25
+sentence-transformers
+python-dotenv
+python-multipart
+pydantic
